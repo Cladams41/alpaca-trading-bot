@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+*.db
+trade_history.json
+.DS_Store
+# IDE files
+.idea/
+.vscode/
